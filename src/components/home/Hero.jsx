@@ -12,7 +12,7 @@ export default function Hero() {
       <div className="container-section relative grid min-h-[80vh] items-center gap-10 py-16 lg:grid-cols-[1fr_0.95fr]">
         <div>
           <p className="inline-flex rounded-full border border-amber-300/30 bg-amber-300/10 px-5 py-2 text-sm font-black uppercase tracking-[0.22em] text-amber-300">
-            Qurbani farm mela
+            QurbaniHat — Firm Fair
           </p>
 
           <h1 className="mt-6 text-4xl font-black leading-tight md:text-6xl">
@@ -40,7 +40,7 @@ export default function Hero() {
         </div>
 
         <div className="relative">
-          <div className="absolute -right-3 -top-3 hidden rounded-full bg-amber-300 px-5 py-3 text-sm font-black text-slate-950 shadow-xl md:block">
+          <div className="absolute -right-3 -top-10 hidden rounded-full bg-amber-300 px-5 py-3 text-sm font-black text-slate-950 shadow-xl md:block">
             Live Farm Picks
           </div>
 

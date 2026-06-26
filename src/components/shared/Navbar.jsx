@@ -41,7 +41,7 @@ export default function Navbar() {
           </span>
           <div>
             <p className="text-xl font-black tracking-tight text-slate-950">QurbaniHat</p>
-            <p className="-mt-1 text-xs font-black uppercase tracking-[0.2em] text-teal-700">Farm Mela</p>
+            <p className="-mt-1 text-xs font-black uppercase tracking-[0.2em] text-teal-700">Livestock Booking Platform</p>
           </div>
         </Link>
 

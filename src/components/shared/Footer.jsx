@@ -23,7 +23,7 @@ export default function Footer() {
               </span>
               <div>
                 <h2 className="text-2xl font-black">QurbaniHat</h2>
-                <p className="text-xs font-black uppercase tracking-[0.25em] text-teal-300">Farm Mela Theme</p>
+                <p className="text-xs font-black uppercase tracking-[0.25em] text-teal-300">Livestock Booking Platform</p>
               </div>
             </Link>
             <p className="mt-5 max-w-md text-sm leading-7 text-slate-300">
