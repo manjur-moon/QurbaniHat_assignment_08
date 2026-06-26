@@ -132,18 +132,4 @@ GOOGLE_CLIENT_SECRET=
 
 For Vercel, keep MongoDB Atlas Network Access properly configured.
 
-## Git Commit Plan
 
-1. Initial Next.js project setup
-2. Configure Tailwind and global styles
-3. Add animal data and data utilities
-4. Build shared navbar and footer
-5. Build home page sections
-6. Build animals listing and sorting
-7. Add animal details and booking form
-8. Configure Better Auth with MongoDB
-9. Add login and registration pages
-10. Add profile and update profile pages
-11. Add Google auth button and env controls
-12. Add easy MongoDB setup scripts
-13. Add README and deployment notes
